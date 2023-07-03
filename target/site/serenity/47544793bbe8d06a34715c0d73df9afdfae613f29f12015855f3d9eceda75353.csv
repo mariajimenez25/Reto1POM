@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login de usuario","Escoger a un empleado de una Orden, y visualizar los cambios guardados","SUCCESS","2023-07-03T02:58:32.0427047-05:00[America/Bogota]","0.0","26.15"
+"Modulo orden de compra","Modificar el responsable de una orden creada previamente","SUCCESS","2023-07-03T04:31:02.1017607-05:00[America/Bogota]","0.0","26.29"
+"Login de usuario","Login de usuario fallido.","SUCCESS","2023-06-28T00:40:57.9056537-05:00[America/Bogota]","0.0","30.68"
